@@ -25,8 +25,9 @@ fitur automasi yang saya tawarkan pada script ini cukup untuk bisa menghemat wak
 8.  lalu tekan `enter`
 9.  harap di cek jika ada kesalahan atau ingin mengoreksi
 
-### #Gunakanlah_dengan_bijak
+#### #Gunakanlah_dengan_bijak
 
+--------------------------------
 ## Panduan pengeditan
 ### 1. Jika ingin mengubah pengisian radio button, perhatikan potongan code berikut ini:
 ```js
