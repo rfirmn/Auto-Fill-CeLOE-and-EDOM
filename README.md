@@ -15,7 +15,7 @@ fitur automasi yang saya tawarkan pada script ini cukup untuk bisa menghemat wak
 
 --------------------
 ## Cara penggunaan:
-1. silahkan akses file scrip.js atau bisa [klik disini](/script.js)
+1. silahkan akses file script.js atau bisa [klik disini](/script.js)
 2.  copy atau unduh code tersebut
 3.  buka EDOM pengisian survey, sampai kehalaman pengisian form yang diinginkan
 4.  buka inspect element
